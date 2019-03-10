@@ -1,5 +1,6 @@
 #intro {
-  position: relative;
-  right: 50%;
+  position: absolute;
+  left: 35%;
+  bottom: 90%;
   color: DimGray;
 }
